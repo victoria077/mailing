@@ -114,6 +114,9 @@ body{
 
 .email-footer{
     background-image: url(img/bg.jpg);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 200px;
     color: #fff;
 }
