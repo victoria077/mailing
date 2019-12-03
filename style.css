@@ -11,7 +11,10 @@ body{
 .email-header{
     background-color: #574943;
     background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
+    width: 100%;
     padding-top: 30px;
     background-position: top left;
 }
